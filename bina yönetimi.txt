@@ -109,3 +109,122 @@ demir baş ekle
   her dairenin  numarısı var karşısında no ,ilk endeks,son endeks
   
   ARAÇ EKLE
+  
+  ================================================================
+  
+  
+  
+daire bilgileri
+
+daire tipi -> standart daire 
+kat maliki -> daire sahibi
+kiracılar -> daire kiracısı
+kat
+daire no
+~ gerekirse ~
+Brüt m^2
+net m^2
+arsa payı
+park sayısı
+petek sayısı
+
+================================================
+
+Aidatlar
+açıklama
+hesap -> kime ait
+tutar
+düzenlenme tarihi
+son ödeme tarihi
+katagori -> aidat demirbaş elektirik sıcak su temizlik yakıt
+
+================================================
+
+GİDERLER
+gider ekle
+açıklama
+tutar -> heesap Kurum, firma veya kişi hesabını seçin yada yenisini oluşturun
+düzenlenme tarihi
+ödeme durumu -> ödenecek -> son ödeme tarihi
+ödeme durumu -> ödendi -> ödendiği tarih , kasa veya banka
+kategori -> aidat demirbaş elektirik sıcak su temizlik yakıt
+faturalarınızı yükleyin pdf vb
+
+================================================
+  
+  KASA,BANKA
+  
+  **kasa ekle**
+  kasa adı
+  açıklama
+  +devir bakiyesi(varsa) -> kasa fazlası,kasa açığı / bakiye
+  
+  **BankaEkle**
+  banka adı
+  şube adı
+  ıban 
+  +devir bakiyesi(varsa) -> kasa fazlası,kasa açığı / bakiye
+  
+================================================
+
+HESAPLAR -> borçlular alacaklılar
+Toplu hesap ekle excelden veya bütün daireler tek tek satır satır
+tedarikci -> tedarikçi adı
+telefon
+yetkili 
+şehir 
+ilçe 
+adres
+ıban
+tedarikçiye ait edki borç  alcak varsa gitilir
+bakiye  borçlumu alcaklımı
+son ödeme tarihi
+
+================================================
+
+Personel
+personel adı
+telefon
+cinsiyet
+öğrenim durumu
+tc kimlik nıo
+ıban
+görevi
+siğerta no
+çalışan  tipi -> normal emekli
+ çocuk sayısı
+ ücret tipi -> net brüt
+  maaş
+  personele ait eski borç veya alacak  -> baliye,borçlu/alacaklı, son ödeme tarihi
+  
+================================================
+  
+  DEMİR BAŞ
+demir baş ekle  
+  demirbaş adı
+  açıklama
+  zimmetli
+  satıcı
+  alış fiyatı
+  adet
+  alış tarihi
+  
+================================================
+  
+  SAYAÇ OKUMA
+  sayaç tipi -> elektirik ,sıcak su , soğuk su,kalorimetre, payölçer
+  her dairenin  numarısı var karşısında no ,ilk endeks,son endeks
+  
+================================================
+  
+Toplu borç ekleme
+borçlandırma tipi toplu aidat borcutoplu demirbaş borcusayaç endexine göre borçlandırexcelden toplu borç aktardiğer toplu borçlandırma
+açıklama2020- şubat ayı aidatı
+hesaplar -> kiracılar yoksa malikleri +istisna ekle hangi daireler ödemeyecek seçebilir.
+tutar -> daire tipine göre veya arsa payı veya saçlara göre  borçlandırma yapılabilir +gelişmiş seçenekler *tutarı paylaştır - *daire tipi sayaç veya park sayısı gibi
+düzenlenme tarihi 
+son ödeme tarihi 
+tekrarla -> tarihine kadar tekrarla
+katagori -> aidat demirbaş elektirik sıcak su temizlik yakıt
+
+================================================
