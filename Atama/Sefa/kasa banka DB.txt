@@ -1,0 +1,16 @@
+================================================
+  
+  KASA,BANKA
+  
+  **kasa ekle**
+  kasa adı
+  açıklama
+  +devir bakiyesi(varsa) -> kasa fazlası,kasa açığı / bakiye
+  
+  **BankaEkle**
+  banka adı
+  şube adı
+  ıban 
+  +devir bakiyesi(varsa) -> kasa fazlası,kasa açığı / bakiye
+  
+================================================

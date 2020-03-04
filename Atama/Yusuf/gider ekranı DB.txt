@@ -1,0 +1,13 @@
+================================================
+
+GİDERLER
+
+gider ekle
+açıklama
+tutar -> hesap Kurum, firma veya kişi hesabını seçin yada yenisini oluşturun
+düzenlenme tarihi
+ödeme durumu -> ödenecek -> son ödeme tarihi
+ödeme durumu -> ödendi -> ödendiği tarih , kasa veya banka
+kategori -> aidat demirbaş elektirik sıcak su temizlik yakıt
+
+================================================
