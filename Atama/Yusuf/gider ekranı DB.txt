@@ -2,12 +2,14 @@
 
 GİDERLER
 
-gider ekle
-açıklama
-tutar -> hesap, Kurum, firma veya kişi hesabını seçin yada yenisini oluşturun
-düzenlenme tarihi
-ödeme durumu -> ödenecek -> son ödeme tarihi
-ödeme durumu -> ödendi -> ödendiği tarih , kasa veya banka
-kategori -> aidat demirbaş elektirik sıcak su temizlik yakıt
+Açıklama (Bu gider hakkında açıklama)
+
+Tutar (hesap, Kurum, firma veya kişi hesabını seçin yada yenisini oluşturun)
+
+Düzenlenme tarihi (Bu gider nezaman oluşturuldu/oluştu)
+
+Kategori (Yönetici hangi tipte gider ekledi örneğin -> demirbaş, elektirik, temizlik)
+
+Ödeme durumu ( Ödenecek ise "Son Ödeme Tarihi" Ödendi ise "Ödendiği Tarih ve Kasa veya Banka bilgileri")
 
 ================================================
